@@ -1,0 +1,3 @@
+- Supports for Touch Bar
+- Adds keyboard shortcuts
+- Tweaks menu items
