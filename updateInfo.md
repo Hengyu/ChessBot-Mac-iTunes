@@ -1,6 +1,1 @@
-- Integrate neural network for engine analysis
-- Introduce *Onboarding tips* which shows helpful tips in playing chess games
-- Support for localizations: German, Simplified Chinese and Traditional Chinese
-- Weaker computer strength for lower difficulty
-- Enhanced for macOS Big Sur
-- Stability improved
+- Add a new board style for accessibility (Thanks hongru.h)
