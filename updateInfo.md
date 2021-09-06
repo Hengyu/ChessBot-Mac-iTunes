@@ -1,1 +1,2 @@
-- Add a new board style for accessibility (Thanks hongru.h)
+- Update the neural network
+- Bug fixes and stability improved
