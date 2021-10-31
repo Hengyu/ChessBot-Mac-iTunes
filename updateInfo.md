@@ -1,2 +1,2 @@
-- Update the neural network
+- Enhanced for macOS Monterey
 - Bug fixes and stability improved
