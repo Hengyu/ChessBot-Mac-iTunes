@@ -1,2 +1,3 @@
-- Enhanced for macOS Monterey
+- Support for hardware keyboard
+- Enhance app accessibility
 - Bug fixes and stability improved
