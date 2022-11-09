@@ -1,1 +1,4 @@
+- Support for Thumbnail Quicklook on PGN file
+- Support for PGN file Drag & Drop
+- Support for game preview exporting (macOS Ventura required)
 - Bug fixes and stability improved
